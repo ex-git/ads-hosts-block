@@ -26,3 +26,5 @@
 127.0.0.1 ads.youtube.com
 127.0.0.1 files.adform.net
 127.0.0.1 pixel.moatads.com
+127.0.0.1 yumenetworks.com
+127.0.0.1 log.ifood.tv
