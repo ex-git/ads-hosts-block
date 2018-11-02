@@ -1,0 +1,11 @@
+127.0.0.1 amoeba.web.roku.com
+127.0.0.1 assets.sr.roku.com
+127.0.0.1 cloudservices.roku.com
+127.0.0.1 prod.mobile.roku.com
+127.0.0.1 wwwimg.roku.com
+127.0.0.1 ads.roku.com
+127.0.0.1 logs.roku.com
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 pagead.l.doubleclick.net
+127.0.0.1 superawesome.tv
+127.0.0.1 liberty.logs.roku.com
