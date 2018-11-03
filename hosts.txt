@@ -9,10 +9,8 @@
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 ad.doubleclick.net
 127.0.0.1 ads.doubleclick.net
 127.0.0.1 ad.mo.doubleclick.net
-127.0.0.1 ad.doubleclick.net
 127.0.0.1 l.doubleclick.net
 127.0.0.1 g.doubleclick.net
 127.0.0.1 static.doubleclick.net
