@@ -13,9 +13,8 @@
 127.0.0.1 ad.mo.doubleclick.net
 127.0.0.1 l.doubleclick.net
 127.0.0.1 g.doubleclick.net
-127.0.0.1 static.doubleclick.net
 127.0.0.1 ad-g.doubleclick.net
-127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 static.doubleclick.net
 127.0.0.1 superawesome.tv
 127.0.0.1 1liberty.logs.roku.com
 127.0.0.1 spotxchange.com
@@ -26,3 +25,12 @@
 127.0.0.1 pixel.moatads.com
 127.0.0.1 yumenetworks.com
 127.0.0.1 log.ifood.tv
+127.0.0.1 amazon-adsystem.com
+127.0.0.1 innovid.com
+127.0.0.1 2mdn.net
+127.0.0.1 fwmrm.net
+127.0.0.1 gads.pubmatic.com
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 googlehosted.l.googleusercontent.com
+127.0.0.1 secure-ds.serving-sys.com
+127.0.0.1 files.adform.net
