@@ -11,8 +11,14 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 ads.doubleclick.net
 127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 i.doubleclick.net
 127.0.0.1 l.doubleclick.net
 127.0.0.1 g.doubleclick.net
+127.0.0.1 googlevideo.com
+127.0.0.1 s.ytimg.com
+127.0.0.1 youtube-ui.l.google.com
+127.0.0.1 ytimg.com
+127.0.0.1 ytmg.com
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 superawesome.tv
