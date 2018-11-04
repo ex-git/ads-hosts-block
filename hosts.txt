@@ -1,3 +1,4 @@
+# Roku TV ads
 127.0.0.1 amoeba.web.roku.com
 127.0.0.1 assets.sr.roku.com
 127.0.0.1 cloudservices.roku.com
@@ -5,6 +6,7 @@
 127.0.0.1 wwwimg.roku.com
 127.0.0.1 ads.roku.com
 127.0.0.1 logs.roku.com
+# Google related
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
@@ -18,22 +20,27 @@
 127.0.0.1 youtube-ui.l.google.com
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 static.doubleclick.net
-127.0.0.1 superawesome.tv
-127.0.0.1 1liberty.logs.roku.com
-127.0.0.1 spotxchange.com
-127.0.0.1 ad.aminopay.net
-127.0.0.1 ad.youtube.com
-127.0.0.1 ads.youtube.com
-127.0.0.1 files.adform.net
-127.0.0.1 pixel.moatads.com
-127.0.0.1 yumenetworks.com
-127.0.0.1 log.ifood.tv
-127.0.0.1 amazon-adsystem.com
 127.0.0.1 innovid.com
 127.0.0.1 2mdn.net
 127.0.0.1 fwmrm.net
 127.0.0.1 gads.pubmatic.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 googlehosted.l.googleusercontent.com
+# Kids video apps ads channel
+127.0.0.1 superawesome.tv
+127.0.0.1 spotxchange.com
+127.0.0.1 ad.aminopay.net
+# Youtube related
+127.0.0.1 ad.youtube.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 files.adform.net
+127.0.0.1 pixel.moatads.com
+127.0.0.1 yumenetworks.com
+127.0.0.1 log.ifood.tv
+# Amazon
+127.0.0.1 amazon-adsystem.com
+# Facebook video ads
+127.0.0.1 graph.facebook.com
+# Misc
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 files.adform.net
