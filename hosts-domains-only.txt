@@ -1,0 +1,47 @@
+# Roku TV ads
+amoeba.web.roku.com
+assets.sr.roku.com
+cloudservices.roku.com
+prod.mobile.roku.com
+wwwimg.roku.com
+ads.roku.com
+logs.roku.com
+# Google related
+ade.googlesyndication.com
+adservice.google.com
+pagead.googlesyndication.com
+pagead1.googlesyndication.com
+pagead2.googlesyndication.com
+gstaticadssl.l.google.com
+ads.doubleclick.net
+ad.mo.doubleclick.net
+i.doubleclick.net
+l.doubleclick.net
+g.doubleclick.net
+s.ytimg.com
+ad-g.doubleclick.net
+static.doubleclick.net
+innovid.com
+2mdn.net
+fwmrm.net
+gads.pubmatic.com
+ads.pubmatic.com
+googlehosted.l.googleusercontent.com
+# Kids video apps ads channel
+superawesome.tv
+spotxchange.com
+ad.aminopay.net
+# Youtube related
+ad.youtube.com
+ads.youtube.com
+files.adform.net
+pixel.moatads.com
+yumenetworks.com
+log.ifood.tv
+# Amazon
+amazon-adsystem.com
+# Facebook video ads
+graph.facebook.com
+# Misc
+secure-ds.serving-sys.com
+files.adform.net
