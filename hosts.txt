@@ -17,7 +17,6 @@
 127.0.0.1 l.doubleclick.net
 127.0.0.1 g.doubleclick.net
 127.0.0.1 s.ytimg.com
-127.0.0.1 youtube-ui.l.google.com
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 innovid.com
