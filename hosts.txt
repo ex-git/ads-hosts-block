@@ -8,6 +8,7 @@
 127.0.0.1 logs.roku.com
 # Google related
 127.0.0.1 ade.googlesyndication.com
+127.0.0.1 adservice.google.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
