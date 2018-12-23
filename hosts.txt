@@ -5,7 +5,8 @@
 127.0.0.1 prod.mobile.roku.com
 127.0.0.1 wwwimg.roku.com
 127.0.0.1 ads.roku.com
-127.0.0.1 logs.roku.com
+#possible break channel?
+#127.0.0.1 logs.roku.com
 # Google related
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adservice.google.com
