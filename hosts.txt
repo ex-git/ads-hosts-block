@@ -5,8 +5,7 @@
 127.0.0.1 prod.mobile.roku.com
 127.0.0.1 wwwimg.roku.com
 127.0.0.1 ads.roku.com
-#possible break channel?
-#127.0.0.1 logs.roku.com
+127.0.0.1 logs.roku.com
 # Google related
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adservice.google.com
@@ -38,7 +37,7 @@
 127.0.0.1 files.adform.net
 127.0.0.1 pixel.moatads.com
 127.0.0.1 yumenetworks.com
-127.0.0.1 log.ifood.tv
+#127.0.0.1 log.ifood.tv
 # Amazon
 127.0.0.1 amazon-adsystem.com
 # Facebook video ads
