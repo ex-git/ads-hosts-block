@@ -15,6 +15,8 @@
 127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 ads.doubleclick.net
 127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 www.googleadservices.com
 127.0.0.1 i.doubleclick.net
 127.0.0.1 l.doubleclick.net
 127.0.0.1 g.doubleclick.net
@@ -39,9 +41,12 @@
 127.0.0.1 yumenetworks.com
 #127.0.0.1 log.ifood.tv
 # Amazon
-127.0.0.1 amazon-adsystem.com
-# Facebook video ads
-127.0.0.1 graph.facebook.com
-# Misc
+127.0.0.1 s.amazon-adsystem.com
+# Facebook ads
+127.0.0.1 connect.facebook.net
+# hotjar tracking
+127.0.0.1 vars.hotjar.com
+# Misc tracking
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 files.adform.net
+127.0.0.1 wildcard.moatads.com.edgekey.net
