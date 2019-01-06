@@ -16,7 +16,7 @@
 127.0.0.1 ads.doubleclick.net
 127.0.0.1 ad.mo.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 www.googleadservices.com
+#127.0.0.1 www.googleadservices.com
 127.0.0.1 i.doubleclick.net
 127.0.0.1 l.doubleclick.net
 127.0.0.1 g.doubleclick.net
